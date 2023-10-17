@@ -14,8 +14,8 @@ dependencies:
   three_dart: 
     git:
       url: https://github.com/kbot/three_dart.git
-      ref: hotfix/0.0.9
-  flutter_gl: 0.0.13
+      ref: hotfix/0.0.9-ffi2.1.0+
+  flutter_gl: 0.0.16
   typr_dart: ^0.0.2
   opentype_dart: ^0.0.1
   universal_html: ^2.0.8
